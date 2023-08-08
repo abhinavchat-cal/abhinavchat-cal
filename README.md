@@ -1,10 +1,10 @@
 ### Hi there, I'm Abhinav - aka [abhinavchat][website] 👋 
 
-## I'm a Developer, Football fan and a Beatboxer!!
+## I'm a Developer, a Football fan and a Beatboxer!!
 
 - 🌱 I’m currently learning Golang 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute to more Open Source projects
+- 🥅 2023 Goals: Contribute to more Open Source projects
 - ⚡ Fun fact: I love playing RPG games on PS4
 
 ### Connect with me:
